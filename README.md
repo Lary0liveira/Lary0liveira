@@ -1,4 +1,4 @@
-## Ola, me chamo Laryssa Batista de Oliveira, estou com 16 anos. Hoje em dia faço curso de desenvolvimento de sistemas na instituição Sesi Senai, atualmente estou no 2º ano do ensino médio. 
+## Oii, me chamo Laryssa Batista de Oliveira, estou com 16 anos. Hoje em dia faço curso de desenvolvimento de sistemas na instituição Sesi Senai, atualmente estou no 2º ano do ensino médio. 
 
 <div align="center">
   <a href="https://github.com/Lary0liveira">
