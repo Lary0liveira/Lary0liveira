@@ -17,4 +17,4 @@
   <a href="https://www.instagram.com/nathancrs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lary.batista1403@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>                   
 
-![snake gif](https://github.com/Lary0liveira/Lary0liveira/blob/output/github-contribution-grid-snake.svg)
+
